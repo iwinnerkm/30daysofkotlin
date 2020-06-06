@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "text": "What is your name?",
+      "type": "string"
+    },
+    {
+      "text": "What is your current job title?",
+      "type": "string"
+    },
+    {
+      "text": "Where do you currently work?",
+      "type": "string"
+    },
+    {
+      "text": "How many years have you worked at your current job?",
+      "type": "integer"
+    },
+    {
+      "text": "What city do you live in?",
+      "type": "string"
+    }
+  ]
+}
